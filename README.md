@@ -1,13 +1,10 @@
 # WIND
-基本模版  
 
-version: 0.1
-<p align="right">by VcrTing</p>
-<p align="right">💗</p>
+<center><img width = '120' src ="https://raw.githubusercontent.com/VcrTing/VUE-TEMPLATE/master/doc/AVATAR.webp"/></center>
+<p >VcrTing</p>
+<p >email: vcrting@163.com</p>
+<p align="right">V01 💗</p>
 
-<center><img width = '270' src ="https://raw.githubusercontent.com/VcrTing/SMSTask/master/0.png"/></center>
-
- 
 ### 安装  
 ##### VITE
 sudo npm i -D vite-plugin-pages unplugin-auto-import unplugin-vue-components vite-plugin-vue-layouts dayjs
