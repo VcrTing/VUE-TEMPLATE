@@ -1,9 +1,9 @@
-# WIND
+# VUE-TEMPLATE
 
 <center><img width = '120' src ="https://raw.githubusercontent.com/VcrTing/VUE-TEMPLATE/master/doc/AVATAR.webp"/></center>
-<p >VcrTing</p>
-<p >email: vcrting@163.com</p>
-<p align="right">V01 💗</p>
+VcrTing  
+邮箱: vcrting@163.com  
+<p align="right">VERSION 01 💗</p>
 
 ### 安装  
 ##### VITE

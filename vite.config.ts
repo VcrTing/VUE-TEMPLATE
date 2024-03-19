@@ -29,7 +29,7 @@ export default defineConfig({
     }),
 
     Components({
-      dirs: [ './src/components', './src/ui/*', './src/cake/*' ],
+      dirs: [ './src/components', './src/ui/*', './src/cake/*', './src/views/*' ],
       dts: true,
     }),
   ],

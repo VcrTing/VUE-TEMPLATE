@@ -7,7 +7,11 @@ export {}
 
 declare module 'vue' {
   export interface GlobalComponents {
+    HtmlMenuLayout: typeof import('./src/cake/layout/comm/HtmlMenuLayout.vue')['default']
+    LayoutMain: typeof import('./src/cake/layout/LayoutMain.vue')['default']
+    Root: typeof import('./src/cake/layout/__global/Root.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    ViewUiDistance: typeof import('./src/views/ui/ViewUiDistance.vue')['default']
   }
 }

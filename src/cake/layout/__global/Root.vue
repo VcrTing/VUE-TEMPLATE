@@ -1,6 +1,9 @@
 <template>
+    <div class="">
+        <slot></slot>
+    </div>
 </template>
     
 <script lang="ts" setup>
-useRouter().push('/home')
+
 </script>
